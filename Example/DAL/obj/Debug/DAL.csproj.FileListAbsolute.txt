@@ -1,0 +1,17 @@
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.dll.config
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.dll
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\DAL.pdb
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.dll
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.xml
+E:\epam-lab\ADO.NET_ORM\Example\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.dll
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.pdb
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.Init.resources
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.Orders.resources
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.OrderItems.resources
+E:\epam-lab\ADO.NET_ORM\Example\DAL\obj\Debug\DAL.Migrations.Customers.resources

@@ -1,0 +1,15 @@
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\Example.exe.config
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\Example.exe
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\Example.pdb
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\DAL.dll
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.dll
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.SqlServer.dll
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\DAL.pdb
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\DAL.dll.config
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.xml
+E:\epam-lab\ADO.NET_ORM\Example\Example\bin\Debug\EntityFramework.SqlServer.xml
+E:\epam-lab\ADO.NET_ORM\Example\Example\obj\Debug\Example.csprojAssemblyReference.cache
+E:\epam-lab\ADO.NET_ORM\Example\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+E:\epam-lab\ADO.NET_ORM\Example\Example\obj\Debug\Example.csproj.CopyComplete
+E:\epam-lab\ADO.NET_ORM\Example\Example\obj\Debug\Example.exe
+E:\epam-lab\ADO.NET_ORM\Example\Example\obj\Debug\Example.pdb
